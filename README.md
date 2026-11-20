@@ -1,1 +1,1 @@
-# gh900-practice
+Studying for GH-900
